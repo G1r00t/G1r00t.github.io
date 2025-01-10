@@ -2,7 +2,7 @@
 layout: post
 title: Moving_Problem
 date: 2025-01-05
-categories: categories: [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
+categories:  [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
 tags: [cryptography, elliptic-curve , sage , Cryptohack]
 ---
 ## Challenge files 

@@ -2,7 +2,7 @@
 layout: post
 title: Point_Negation
 date: 2025-01-05
-categories: categories: [Cryptohack-writeups, Elliptic-curves, Starter] 
+categories:  [Cryptohack-writeups, Elliptic-curves, Starter] 
 tags: [cryptography, elliptic-curve , sage , Cryptohack]
 ---
 ```

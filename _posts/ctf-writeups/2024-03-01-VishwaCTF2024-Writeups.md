@@ -2,7 +2,7 @@
 layout: post
 title: VishwaCTF2024_Writeups
 date: 2025-01-05
-categories: categories: [CTF-writeups] 
+categories:  [CTF-writeups] 
 tags: [cryptography, VishwaCTF2024 ]
 ---
 # CODEON
