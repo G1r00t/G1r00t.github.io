@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving_Problem
+title: Elliptic-Curves/Parameter-Choice/Moving_Problem
 date: 2025-01-05
 categories:  [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
 tags: [cryptography, elliptic-curve , sage , Cryptohack]
