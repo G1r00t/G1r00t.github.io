@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smooth_Criminal
+title: Elliptic-Curves/Parameter-Choice/Smooth_Criminal
 date: 2025-01-05
 categories:  [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
 tags: [cryptography, elliptic-curve , sage , Cryptohack]
