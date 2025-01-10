@@ -4,29 +4,31 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<<<<<<< HEAD
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-=======
-
 ![Gr00t_profile_photo](https://avatars.githubusercontent.com/u/130218709?v=4)
 
-
-
-
-I am a cybersecurity enthusiast with a strong background in the field of Cloud Security. Being a Cryptographer and CTF Player at one of the top CTF teams in the world `InfoSecIITR`
+## About Me
+I am a cybersecurity enthusiast with a strong background in Cloud Securityand Cryptography. As a CTF player with [InfoSecIITR](https://ctftime.org/team/16691), I have developed hands-on experience in solving real-world challenges.
 
 ![logo_infosec](https://github.com/it4ch1-007/it4ch1-007.github.io/assets/133276365/cff46ac3-1be0-43de-9c92-1996298b10c3)
 
-Apart from security, I have been involved in Low-level development using modern languages like C++ and Go. 
-And now I am trying my hand in Rust. 
+## Skills & Interests
+- **Security**: Cloud Security, Cryptography, CTFs  
+- **Programming**: C++, GoLang, and currently learning Rust  
+- **Cloud Development**: Experienced in Kubernetes and containerized environments  
+- **AI**: Projects focused on Retrieval-Augmented Generation (RAG)  
+- **Competitive Programming**: Enjoy solving problems in my free time  
 
-In my free time sometimes I also like to do some Competitive Programming.
+## Projects & Achievements
+- **Stellar Pods**: Worked on integrating Kubernetes with various security projects, which helped me explore containerization and orchestration tools.  
+- **InfoSecIITR**: Contributed to CTF challenges and projects, gaining insights into practical cybersecurity applications.
 
-InfoSecIITR has also helped me in integration with various security projects like Stellar_Pods that have helped me learn and explore more in the fields of Kubernetes. 
+## Philosophy
+In the field of cybersecurity, there are endless challenges. For every software developed, there are a thousand ways to exploit it—but finding and understanding those vulnerabilities allows us to defend it effectively.
 
-In the field of cybersecurity, there is actually no limit, as soon as a software is developed thousand ways are there to exploit it , but if we can find those thousand ways we can surely find the one way to defend it.
+[Download My Resume](../Rhythm_off_campus_resume.pdf)
 
-Here is my Attached Resume: [Download Document](../Rhythm_off_campus_resume.pdf)
+You can connect with me on my socials:
 
->>>>>>> 6354c8d (my blog)
+- [Twitter/X](https://x.com/Rhythm_mundra_?t=IxN3dZGNK-qEHhdvyc5R4g&s=09)  
+- [GitHub](https://github.com/G1r00t)  
+- [LinkedIn](https://www.linkedin.com/in/rhythmmundra777/)  
