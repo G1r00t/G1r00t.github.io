@@ -1,3 +1,10 @@
+---
+layout: post
+title: Efficient_Exchange
+date: 2025-01-05
+categories: categories: [Cryptohack-writeups, Elliptic-curves, Starter] 
+tags: [cryptography, elliptic-curve , sage , Cryptohack]
+---
 ```
 a = 497
 b = 1768

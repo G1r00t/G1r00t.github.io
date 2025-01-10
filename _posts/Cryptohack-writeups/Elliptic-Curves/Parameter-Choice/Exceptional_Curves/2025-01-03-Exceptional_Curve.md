@@ -1,3 +1,11 @@
+---
+layout: post
+title: Exceptional_Curves
+date: 2025-01-05
+categories: categories: [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
+tags: [cryptography, elliptic-curve , sage , Cryptohack]
+---
+
 ## Challenge files 
 Source Code : [Source](https://github.com/G1r00t/CryptoHack_Writeups/blob/main/Elliptic_curves/Parametr_Choice/Exceptional_Curves/b.sage)
 Output File : [Output](https://github.com/G1r00t/CryptoHack_Writeups/blob/main/Elliptic_curves/Parametr_Choice/Exceptional_Curves/2.txt)

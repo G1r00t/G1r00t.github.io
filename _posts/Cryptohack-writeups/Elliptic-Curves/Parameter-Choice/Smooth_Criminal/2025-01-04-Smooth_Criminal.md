@@ -1,3 +1,11 @@
+---
+layout: post
+title: Smooth_Criminal
+date: 2025-01-05
+categories: categories: [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
+tags: [cryptography, elliptic-curve , sage , Cryptohack]
+---
+
 ## Challenge files 
 Source Code: [Source](https://github.com/G1r00t/CryptoHack_Writeups/blob/main/Elliptic_curves/Parametr_Choice/Smooth_Criminal/a.py)  
 Output File: [Output](https://raw.githubusercontent.com/G1r00t/CryptoHack_Writeups/main/Elliptic_curves/Parametr_Choice/Smooth_Criminal/1.txt)
