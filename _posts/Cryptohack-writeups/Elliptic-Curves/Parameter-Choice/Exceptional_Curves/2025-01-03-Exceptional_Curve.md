@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exceptional_Curves
+title: Elliptic-Curves/Parameter-Choice/Exceptional_Curve
 date: 2025-01-05
 categories:  [Cryptohack-writeups, Elliptic-curves, Parameter-choice] 
 tags: [cryptography, elliptic-curve , sage , Cryptohack]
